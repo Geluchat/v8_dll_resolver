@@ -1,6 +1,6 @@
 /*
 
-Note this require 3 functions in order to work : 
+Note this require 4 functions in order to work : 
 - read32(addr) -> read 32bits at addr
 - read64(addr) -> read 64bits at addr
 - addrof(obj) -> get address of obj
